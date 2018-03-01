@@ -11,7 +11,7 @@ artist: Ariel Efraim Ashbel
 project: audioreflex
 email: email@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  audioguia
+  Ariel Efraim Ashbel
 baseurl: "" # the subpath of your site, e.g. /blog
 audio_path: "/audio/"
 episode_hero_path: "/assets/img/stops/"
